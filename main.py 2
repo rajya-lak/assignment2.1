@@ -1,0 +1,5 @@
+# This is a sample Python script.
+
+name=range(0,1,5)
+for i in name:
+    print(i)
